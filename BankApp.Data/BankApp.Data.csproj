@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210509195734_init.cs" />
+    <Compile Remove="Migrations\20210509195734_init.Designer.cs" />
+    <Compile Remove="Migrations\20210509201725_init.cs" />
+    <Compile Remove="Migrations\20210509201725_init.Designer.cs" />
+    <Compile Remove="Migrations\20210510163553_init.cs" />
+    <Compile Remove="Migrations\20210510163553_init.Designer.cs" />
+    <Compile Remove="Migrations\20210510191320_addCustomerId.cs" />
+    <Compile Remove="Migrations\20210510191320_addCustomerId.Designer.cs" />
+    <Compile Remove="Migrations\20210510191537_init.cs" />
+    <Compile Remove="Migrations\20210510191537_init.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.1.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankApp.Models\BankApp.Models.csproj" />
+  </ItemGroup>
+
+</Project>

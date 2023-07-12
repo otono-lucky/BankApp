@@ -1,0 +1,4 @@
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Test\obj\Debug\netcoreapp3.1\BankApp.Test.csprojAssemblyReference.cache
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Test\obj\Debug\netcoreapp3.1\BankApp.Test.AssemblyInfoInputs.cache
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Test\obj\Debug\netcoreapp3.1\BankApp.Test.AssemblyInfo.cs
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Test\obj\Debug\netcoreapp3.1\BankApp.Test.csproj.CoreCompileInputs.cache

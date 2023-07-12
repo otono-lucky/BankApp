@@ -1,0 +1,12 @@
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\bin\Debug\netcoreapp3.1\BankApp.Models.deps.json
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\bin\Debug\netcoreapp3.1\BankApp.Models.dll
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\bin\Debug\netcoreapp3.1\BankApp.Models.pdb
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\bin\Debug\netcoreapp3.1\BankApp.Commons.dll
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\bin\Debug\netcoreapp3.1\BankApp.Commons.pdb
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\obj\Debug\netcoreapp3.1\BankApp.Models.csprojAssemblyReference.cache
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\obj\Debug\netcoreapp3.1\BankApp.Models.AssemblyInfoInputs.cache
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\obj\Debug\netcoreapp3.1\BankApp.Models.AssemblyInfo.cs
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\obj\Debug\netcoreapp3.1\BankApp.Models.csproj.CoreCompileInputs.cache
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\obj\Debug\netcoreapp3.1\BankApp.Models.csproj.CopyComplete
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\obj\Debug\netcoreapp3.1\BankApp.Models.dll
+C:\Code\Decagon_Tasks\week-7-Chuks-Onuh\BankApp\BankApp.Models\obj\Debug\netcoreapp3.1\BankApp.Models.pdb
